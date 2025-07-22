@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Nanny Connect Application</string>
+=======
+	<string>Flutter Application Nanny App</string>
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>nanny_connect_application</string>
+=======
+	<string>flutter_application_nanny_app</string>
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

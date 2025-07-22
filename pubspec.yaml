@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 name: nanny_connect_application
 description: A Flutter web app for connecting employers with available nannies.
 version: 1.0.0+1
+=======
+name: flutter_application_nanny_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
@@ -9,8 +15,34 @@ dependencies:
   flutter:
     sdk: flutter
 
+<<<<<<< HEAD
   # ✅ Firebase packages (compatible versions)
   firebase_core: ^3.15.1
   firebase_auth: ^5.6.2
   cloud_firestore: ^5.6.11
 
+=======
+  # Updated direct dependencies
+  characters: ^1.4.1
+  material_color_utilities: ^0.13.0
+  meta: ^1.17.0
+  vector_math: ^2.2.0
+
+  # Other project-specific dependencies
+  # (Add any other dependencies you use here)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Updated dev dependencies
+  flutter_lints: ^6.0.0
+  leak_tracker: ^11.0.1
+  leak_tracker_testing: ^3.0.2
+  lints: ^6.0.0
+  test_api: ^0.7.6
+  vm_service: ^15.0.0
+
+flutter:
+  uses-material-design: true
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6

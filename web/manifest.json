@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "nanny_connect_application",
     "short_name": "nanny_connect_application",
+=======
+    "name": "flutter_application_nanny_app",
+    "short_name": "flutter_application_nanny_app",
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="nanny_connect_application"
+=======
+        android:label="flutter_application_nanny_app"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

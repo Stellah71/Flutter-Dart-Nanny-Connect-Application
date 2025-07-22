@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "nanny_connect_application" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "nanny_connect_application" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "nanny_connect_application.exe" "\0"
             VALUE "ProductName", "nanny_connect_application" "\0"
+=======
+            VALUE "FileDescription", "flutter_application_nanny_app" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "flutter_application_nanny_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "flutter_application_nanny_app.exe" "\0"
+            VALUE "ProductName", "flutter_application_nanny_app" "\0"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

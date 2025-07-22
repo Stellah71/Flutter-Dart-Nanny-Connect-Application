@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:nanny_connect_application/main.dart';
+=======
+import 'package:flutter_application_nanny_app/main.dart';
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

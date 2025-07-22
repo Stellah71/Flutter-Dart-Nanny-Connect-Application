@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # nanny_connect_application
+=======
+# flutter_application_nanny_app
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
 
 A new Flutter project.
 

@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "nanny_connect_application.app"
+=======
+               BuildableName = "flutter_application_nanny_app.app"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "nanny_connect_application.app"
+=======
+            BuildableName = "flutter_application_nanny_app.app"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "nanny_connect_application.app"
+=======
+            BuildableName = "flutter_application_nanny_app.app"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "nanny_connect_application.app"
+=======
+            BuildableName = "flutter_application_nanny_app.app"
+>>>>>>> 24af94e0fe0ab53f801cd5ff54c1dc216ea9a0a6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
