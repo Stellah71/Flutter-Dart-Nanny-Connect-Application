@@ -1,0 +1,16 @@
+name: nanny_connect_application
+description: A Flutter web app for connecting employers with available nannies.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ✅ Firebase packages (compatible versions)
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723399301045",
+    "project_id": "nannyconnectapplication",
+    "storage_bucket": "nannyconnectapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723399301045:android:ae4ecfb065e5279b46abfc",
+        "android_client_info": {
+          "package_name": "com.example.nanny_connect_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQu2DpGeC1MkNohs4vhlgqByRD8xPYWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
